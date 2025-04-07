@@ -35,6 +35,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BowerH&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BowerH&layout=compact&theme=radical" height="150" />
+ <p align="center">
+  <img alt="snake gif" src="https://github.com/BowerH/BowerH/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
