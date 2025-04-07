@@ -2,7 +2,7 @@
 <h3 align="center">A passionate bioinformatician and lifelong learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Building+cool+things+with+code.;Let%27s+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Bioinformatics+is+my+playground.;Turning+data+into+biological+insights.;Pipelines%2C+plots%2C+and+protein+folds.;Let's+decode+life+together+%F0%9F%94%8D" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
   <img src="https://www.vectorlogo.zone/logos/nextflow_io/nextflow_io-icon.svg" height="40" alt="Nextflow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_GNU.svg/1200px-Logo_GNU.svg.png" height="40" alt="GNU tools" />
-  <img src="https://avatars.githubusercontent.com/u/16373561?s=200&v=4" height="40" alt="Bioconda" />
 </div>
 
 ---
@@ -46,9 +44,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hannah-bower-48664a197"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hbower6@gatech.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Terminal coding GIF" />
+</p>
+
 </p>
 
 ---
+
+
 
 ### ✨ Quote of the Day
 
