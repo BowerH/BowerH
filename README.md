@@ -53,12 +53,3 @@
 ---
 
 
-
-### ✨ Quote of the Day
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-<!-- More sections like Blog, Projects, or YouTube can go here -->
-
