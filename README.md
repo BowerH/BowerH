@@ -25,8 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/nextflow_io/nextflow_io-icon.svg" height="40" alt="Nextflow" />
 </div>
+> Tools I use: `Python`, `R`, `Bash`, `Nextflow`, `Bactopia`, `Bioconda`, `Snakemake`, `FastQC`, `Samtools`, `BLAST`, `Jupyter`
 
 ---
 
