@@ -7,12 +7,11 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧬 About Me
 
-- 🔭 I’m currently working on: Making cool tools and apps that solve real problems  
-- 🌱 I’m learning: New tech stacks and automation  
-- 💬 Ask me about: Python, JavaScript, or building efficient workflows  
-- ⚡ Fun fact: I drink my coffee with code ☕💻
+- 🔭 I’m currently working on: Bioinformatics pipelines, data visualization, and tool development for biological research  
+- 🌱 I’m diving deeper into: Genomics, sequence analysis, and machine learning in life sciences  
+- 💬 Ask me about: Python, Linux, or building automated workflows  
 
 ---
 
@@ -21,10 +20,14 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/nextflow_io/nextflow_io-icon.svg" height="40" alt="Nextflow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_GNU.svg/1200px-Logo_GNU.svg.png" height="40" alt="GNU tools" />
+  <img src="https://avatars.githubusercontent.com/u/16373561?s=200&v=4" height="40" alt="Bioconda" />
 </div>
 
 ---
