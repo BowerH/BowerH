@@ -2,22 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "*/15 * * * *"  # every 15 minutes (GitHub's fastest allowed interval)
+    - cron: "0 0 * * *"  # once a day
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate snake animation (dark mode)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: BowerH
           outputs: |
             dist/github-contribution-grid-snake.svg
-          # 🌈 Rainbow snake colors
           color_snake: rainbow
-          color_dots: "#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127"
+          color_dots: "#161B22,#0D1117,#30363D,#3FB950,#26A641"
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
