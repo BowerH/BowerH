@@ -25,8 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
+
+ Tools I use: Python, R, Bash, Nextflow, Bactopia, Bioconda, Snakemake, FastQC, Samtools, BLAST, Jupyter
+
 </div>
-> Tools I use: `Python`, `R`, `Bash`, `Nextflow`, `Bactopia`, `Bioconda`, `Snakemake`, `FastQC`, `Samtools`, `BLAST`, `Jupyter`
+
 
 ---
 
