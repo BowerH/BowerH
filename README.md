@@ -9,7 +9,7 @@
 
 ### 🧬 About Me
 
-- 🔭 I’m currently working on: Bioinformatics pipelines, data visualization, and tool development for biological research  
+- 🔭 I’m currently working on: A novel pipeline to approach presence and absence of bacterial genomes.
 - 🌱 I’m diving deeper into: Genomics, sequence analysis, and machine learning in life sciences  
 - 💬 Ask me about: Python, Linux, or building automated workflows  
 
