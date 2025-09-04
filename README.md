@@ -9,9 +9,9 @@
 
 ### 🧬 About Me
 
-- 🔭 I’m currently working on: A novel pipeline to approach presence and absence of bacterial genomes.
-- 🌱 I’m diving deeper into: Genomics, sequence analysis, and machine learning in life sciences  
-- 💬 Ask me about: Python, Linux, or building automated workflows  
+- 🔭 I’m currently working on: A novel pipeline to analyze Intra-Subject lineages of Staphlococcus aureus.
+- 🌱 I’m diving deeper into: Nextflow pipeline devlopment, bacterial genome analysis, and machine learning in life sciences  
+- 💬 Ask me about: Python, Linux, or building automated workflows using Nextflow! 
 
 ---
 
@@ -25,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-
- Tools I use: Python, R, Bash, Nextflow, Bactopia, Bioconda, Snakemake, FastQC, Samtools, BLAST, Jupyter
 
 </div>
 
