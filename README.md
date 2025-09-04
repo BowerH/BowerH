@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Hannah</h1>
-<h3 align="center">A passionate bioinformatician🚀</h3>
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
