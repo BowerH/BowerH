@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hannah</h1>
+<h1 align="center">Hi there, I'm Hannah!</h1>
 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -8,25 +8,8 @@
 
 ### 🧬 About Me
 
-- 🔭 I’m currently working on: A novel pipeline to analyze Intra-Subject lineages of Staphlococcus aureus.
-- 🌱 I’m diving deeper into: Nextflow pipeline devlopment, bacterial genome analysis, and machine learning in life sciences  
-- 💬 Ask me about: Python, Linux, or building automated workflows using Nextflow! 
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-
-</div>
-
+- Data Analyst
+- MS Bioinformatics @ Georgia Institute of Technology
 
 ---
 
