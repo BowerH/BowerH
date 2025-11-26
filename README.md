@@ -6,14 +6,7 @@
 
 ---
 
-### 🧬 About Me
-
-- Data Analyst
-- MS Bioinformatics @ Georgia Institute of Technology
-
----
-
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BowerH&show_icons=true&theme=radical" height="150" />
@@ -24,7 +17,7 @@
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hannah-bower-48664a197"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
